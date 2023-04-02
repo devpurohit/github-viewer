@@ -68,8 +68,6 @@ class GithubApi {
   }
 }
 
-const githubApi = new GithubApi(
-  "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"
-);
+const githubApi = new GithubApi(process.env.REACT_APP_GITHUB_API_KEY);
 
 export default githubApi;

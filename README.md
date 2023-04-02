@@ -8,7 +8,8 @@ To run this project locally, follow these steps:
 
 1. Clone the repository
 2. Install the dependencies by running `npm install`
-3. Start the development server by running `npm start`
+3. Add a .env file. Have shared the key-value pair in the note section on greenhouse.
+4. Start the development server by running `npm start`
 
 ## Usage
 
